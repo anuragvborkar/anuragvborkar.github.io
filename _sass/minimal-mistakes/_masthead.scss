@@ -50,6 +50,7 @@
   -ms-flex-item-align: center;
   align-self: center;
   font-weight: bold;
+  font-size: $type-size-4;
   // z-index: 20;
 }
 
@@ -64,6 +65,7 @@
   margin-right: 0;
   width: 100%;
   clear: both;
+  font-size: $type-size-9;
 
   .site-nav {
     margin-left: 0;
